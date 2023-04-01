@@ -1,8 +1,10 @@
 provider "aws" {
   region  = "us-east-1"
   #shared_credentials_file = "$HOME/.aws/credentials" # default
-  access_key = "*********"
-  secret_key = "**********"
+  #access_key = "*********"
+  #secret_key = "**********"
+  access_key = "AKIA6JO2NIYXT5TVOGNA"
+  secret_key = "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"
   #profile = "default" # you may change to desired profile
   #version = "~> 2.63"
 }
